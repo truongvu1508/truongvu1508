@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am currently studying at **[Danang University of Technology and Education](https://qldt.ute.udn.vn/)**
+- 🔭 I am currently studying at **[University of Technology and Education, the University of Da Nang](https://qldt.ute.udn.vn/)**
 
 - ⚡ I was born in 2004
 
