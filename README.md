@@ -1,4 +1,4 @@
-<a href="#" align="center"><img width="400" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJnemFidWo5cWtiNmx3Z3R1YXZpcXBka2xkbzZhcDZoMjVoMXNibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/></a>
+<div href="#" align="center"><img width="400" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJnemFidWo5cWtiNmx3Z3R1YXZpcXBka2xkbzZhcDZoMjVoMXNibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Truong Vu</h1>
 <h3 align="center">I am perfecting my skills to become a Full Stack Developer.</h3>
