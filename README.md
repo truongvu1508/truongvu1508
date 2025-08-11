@@ -1,36 +1,128 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Truong Vu</h1>
-<h3 align="center">I am perfecting my skills to become a Full Stack Developer.</h3>
+<div align="center">
+  
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Truong Vu
+### 🚀 I am perfecting my skills to become a Full Stack Developer.
 
-<div align="center"><img width="400" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJnemFidWo5cWtiNmx3Z3R1YXZpcXBka2xkbzZhcDZoMjVoMXNibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/></div>
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🙋‍♂️ About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Always+learning+new+things)](https://git.io/typing-svg)
 
-- 🔭 I am currently studying at **[University of Technology and Education, the University of Da Nang](https://qldt.ute.udn.vn/)**
-
-- ⚡ I was born in 2004
-
-- 📫 How to reach me **ntv150804@gmail.com**
-
-## 🌐Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/truong.vu.1508) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/truongvu_158/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vũ-nguyễn-77819332a/)
-
-
-# 💻Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-# 📊GitHub Stats :
-
-<img alt="my stats" align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=truongvu1508&show_icons=true&theme=gotham" />
-<img alt="top langs" align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongvu1508&layout=compact&theme=gotham" /> <br clear="all"/>
-
-### ✍️Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=truongvu1508&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧑‍💻 About Me
+
+
+
+- 🎓 Information Technology Student at **[University of Technology and Education, Da Nang](https://qldt.ute.udn.vn/)**
+- 🌟 Born in **2004** - Generation Z Developer
+- 💼 Building modern web applications with **MERN Stack**
+- 🎯 I am perfecting my skills to become a **Full Stack Development**
+- 📧 Reach me: **nguyentruongvu.dux@gmail.com**
+- ⚡ Fun fact: It's not a bug – it's an feature.
+- 💭 Quote: "Every expert was once a beginner..." - Robin Sharma 🌱
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/truong.vu.1508)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/truongvu_158/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vũ-nguyễn-77819332a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyentruongvu.dux@gmail.com)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🎨 Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+
+### 🔧 Backend & Database
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🛠️ Development Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=truongvu1508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=truongvu1508&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongvu1508&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+
+---
+
+## 🎯 Current Focus
+
+<div >
+
+```javascript
+const nguyenTruongVu = {
+    currentFocus: "MERN Stack Development",
+    technologies: ["MERN Stack", "TypeScript", "MVC Architecture", "RESTful APIs", "Database Design"],
+    askMeAbout: ["Web Development", "JavaScript", "TypeScript", "React", "Node.js", "MVC Pattern"],
+    funFact: "99 bugs in the code, 99 bugs... fix one bug, compile it again, 127 bugs in the code! 🐛"
+};
+```
+
+</div>
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+
+<div align="center">
+
+### 💖 Thanks for visiting my profile!
+
+![Profile Views](https://komarev.com/ghpvc/?username=truongvu1508&color=blue)
+
+**"Every expert was once a beginner. Every pro was once an amateur!"** - Robin Sharma 🌱
+
+⭐️ From [truongvu1508](https://github.com/truongvu1508)
+
+</div>
