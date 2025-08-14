@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Truong Vu
-### 🚀 I am perfecting my skills to become a Full Stack Developer.
+### 🚀 I am perfecting my skills to become a Backend Developer.
 
 <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -17,8 +17,9 @@
 
 - 🎓 Information Technology Student at **[University of Technology and Education, Da Nang](https://qldt.ute.udn.vn/)**
 - 🌟 Born in **2004** - Generation Z Developer
-- 💼 Building modern web applications with **MERN Stack**
-- 🎯 I am perfecting my skills to become a **Full Stack Development**
+- 💼 Building server-side applications, APIs and modern web applications with **MERN Stack**
+- 🎯 I am perfecting my skills to become a **Backend Developer**
+- 🌐 Have some knowledge in **Frontend Development**
 - 📧 Reach me: **nguyentruongvu.dux@gmail.com**
 - ⚡ Fun fact: It's not a bug – it's an feature.
 - 💭 Quote: "Every expert was once a beginner..." - Robin Sharma 🌱
@@ -93,9 +94,10 @@
 
 ```javascript
 const nguyenTruongVu = {
-    currentFocus: "MERN Stack Development",
-    technologies: ["MERN Stack", "TypeScript", "MVC Architecture", "RESTful APIs", "Database Design"],
-    askMeAbout: ["Web Development", "JavaScript", "TypeScript", "React", "Node.js", "MVC Pattern"],
+    currentFocus: "Backend Developer",
+    stack: "MERN Stack",
+    technologies: ["Node.js", "Express.js", "MongoDB", "React", "RESTful APIs", "MVC Architecture", "TypeScript", "Database Design"],
+    askMeAbout: ["Backend Development", "MERN Stack", "Node.js", "Express.js", "JavaScript", "TypeScript", "RESTful APIs", "Database Design"],
     funFact: "99 bugs in the code, 99 bugs... fix one bug, compile it again, 127 bugs in the code! 🐛"
 };
 ```
