@@ -22,7 +22,7 @@
 - 🌐 Have some knowledge in **Frontend Development**
 - 📧 Reach me: **nguyentruongvu.dux@gmail.com**
 - ⚡ Fun fact: It's not a bug – it's an feature.
-- 💭 Quote: "Every expert was once a beginner..." - Robin Sharma 🌱
+- 💭 Quote: "Every expert was once a beginner. Every pro was once an amateur!" - Robin Sharma 🌱
 
 ---
 
@@ -119,8 +119,6 @@ const nguyenTruongVu = {
 ### 💖 Thanks for visiting my profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=truongvu1508&color=blue)
-
-**"Every expert was once a beginner. Every pro was once an amateur!"** - Robin Sharma 🌱
 
 ⭐️ From [truongvu1508](https://github.com/truongvu1508)
 
