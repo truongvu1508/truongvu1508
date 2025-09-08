@@ -64,6 +64,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+### 🗃️ ORM/ODM
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
 ### 🛠️ Development Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -93,8 +97,8 @@
 const nguyenTruongVu = {
     currentFocus: "Backend Developer",
     stack: "MERN Stack",
-    technologies: ["Node.js", "Express.js", "MongoDB", "React", "RESTful APIs", "MVC Architecture", "TypeScript", "Database Design"],
-    askMeAbout: ["Backend Development", "MERN Stack", "Node.js", "Express.js", "JavaScript", "TypeScript", "RESTful APIs", "Database Design"],
+    technologies: ["Node.js", "Express.js", "MongoDB", "React", "RESTful APIs", "MVC Architecture", "TypeScript"],
+    askMeAbout: ["Backend Development", "MERN Stack", "Node.js", "Express.js", "JavaScript", "TypeScript", "RESTful APIs"],
     funFact: "99 bugs in the code, 99 bugs... fix one bug, compile it again, 127 bugs in the code! 🐛"
 };
 ```
