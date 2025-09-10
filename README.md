@@ -15,7 +15,7 @@
 
 
 
-- 🎓 Information Technology Student at **[University of Technology and Education, Da Nang](https://qldt.ute.udn.vn/)**
+- 🎓 Information Technology Student at **[University of Technology and Education, the University of Da Nang](https://qldt.ute.udn.vn/)**
 - 🌟 Born in **2004** - Generation Z Developer
 - 💼 Building server-side applications, APIs and modern web applications with **MERN Stack**
 - 🎯 I am perfecting my skills to become a **Backend Developer**
